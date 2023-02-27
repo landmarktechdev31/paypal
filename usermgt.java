@@ -7,3 +7,5 @@ Damien
 sango
 obatitilailai
 ok thats enough
+buki
+manager
