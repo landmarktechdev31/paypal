@@ -9,3 +9,4 @@ obatitilailai
 ok thats enough
 buki
 manager
+mercy
